@@ -13,6 +13,7 @@
     "dev": "father doc dev",
     "build": "father build",
     "doc:build": "father doc build",
+    "predoc:io": "yarn doc:build",
     "doc:io": "father doc deploy"
   },
   "peerDependencies": {
