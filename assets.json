@@ -1,7 +1,7 @@
 {
-  "vendors.css": "/static/css/vendors.b87c31164c433ff90345.css",
-  "vendors.js": "/static/js/vendors.74a7d67c.js",
-  "app.js": "/static/js/app.b87c31164c433ff90345.js",
-  "src-index.js": "/static/js/src-index.68e487b9.js",
-  "index.html": "/index.html"
+  "vendors.css": "/watermark/static/css/vendors.af14a5fce6da536ce98c.css",
+  "vendors.js": "/watermark/static/js/vendors.d424738e.js",
+  "app.js": "/watermark/static/js/app.af14a5fce6da536ce98c.js",
+  "src-index.js": "/watermark/static/js/src-index.68e487b9.js",
+  "index.html": "/watermark/index.html"
 }
