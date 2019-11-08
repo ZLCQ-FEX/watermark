@@ -11,7 +11,9 @@
   "repository": "https://github.com/ZLCQ-FEX/watermark-canvas.git/watermark-canvas",
   "scripts": {
     "dev": "father doc dev",
-    "build": "father build"
+    "build": "father build",
+    "doc:build": "father doc build",
+    "doc:io": "father doc deploy"
   },
   "peerDependencies": {
     "react": "16.x"
