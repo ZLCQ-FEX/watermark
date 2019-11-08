@@ -1,0 +1,43 @@
+---
+name: Home
+route: /
+order: -1
+sidebar: true
+---
+
+import Watermark from './';
+
+# 水印组件
+
+## 调用方法
+
+<div
+  style={{
+    width: 900,
+    height: 600,
+    position: 'relative',
+  }}
+>
+  <Watermark
+    rectWidth={300}
+    rectHeight={200}
+    text={'I\'m TeaEra'}
+  />
+</div>
+
+## 改变文本颜色
+
+<div
+  style={{
+    width: 900,
+    height: 600,
+    position: 'relative',
+  }}
+>
+  <Watermark
+    rectWidth={300}
+    rectHeight={200}
+    text={'I\'m TeaEra'}
+    fillStyle={'rgba(255, 0, 0, 1)'}
+  />
+</div>
